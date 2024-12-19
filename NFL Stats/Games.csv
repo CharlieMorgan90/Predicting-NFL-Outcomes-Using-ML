@@ -1,0 +1,273 @@
+Week,Away Team,Home Team,Away Team Score,Home Team Score,Winning Team
+1,Lions,Chiefs,21,20,Lions
+1,Panthers,Falcons,10,24,Falcons
+1,Bengals,Browns,3,24,Browns
+1,Jaguars,Colts,31,21,Jaguars
+1,Buccaneers,Vikings ,20,17,Buccaneers
+1,Titans,Saints,15,16,Saints
+1,49ers,Steelers,30,7,49ers
+1,Cardinals,Commanders,16,20,Commanders
+1,Texans,Ravens ,9,25,Ravens
+1,Packers,Bears,38,20,Packers
+1,Raiders,Broncos,17,16,Raiders
+1,Patriots,Eagles ,20,25,Eagles
+1,Dolphins,Chargers,36,34,Dolphins
+1,Rams,Seahawks,30,13,Rams
+1,Cowboys,Giants,40,0,Cowboys
+1,Bills ,Jets,16,22,Jets
+2,Vikings,Eagles ,28,34,Eagles
+2,Packers,Falcons,24,25,Falcons
+2,Raiders,Bills,10,38,Bills
+2,Ravens,Bengals,27,24,Ravens
+2,Seahawks,Lions,37,31,Seahawks
+2,Chargers,Titans,24,27,Titans
+2,Bears,Buccaneers,17,27,Buccaneers
+2,Chiefs,Jaguars,17,9,Chiefs
+2,Colts,Texans,31,20,Colts
+2,49ers,Rams,30,23,49ers
+2,Giants ,Cardinals,31,28,Giants
+2,Jets,Cowboys,10,30,Cowboys
+2,Commanders,Broncos,35,33,Commanders
+2,Dolphins,Patriots,24,17,Dolphins
+2,Saints,Panthers,20,17,Saints
+2,Browns,Steelers,22,26,Steelers
+3,Giants ,49ers,12,30,49ers
+3,Titans,Browns,3,27,Browns
+3,Falcons,Lions,6,20,Lions
+3,Saints,Packers,17,18,Packers
+3,Broncos,Dolphins,20,70,Dolphins
+3,Chargers,Vikings ,28,24,Chargers
+3,Patriots,Jets,15,10,Patriots
+3,Bills ,Commanders,37,3,Bills
+3,Texans,Jaguars,37,17,Texans
+3,Colts,Ravens ,22,19,Colts
+3,Panthers,Seahawks,27,37,Seahawks
+3,Bears,Chiefs,10,41,Chiefs
+3,Cowboys,Cardinals,16,28,Cardinals
+3,Steelers,Raiders,23,18,Steelers
+3,Eagles,Buccaneers,25,11,Eagles
+3,Rams,Bengals,16,19,Bengals
+4,Lions,Packers,34,20,Lions
+4,Falcons,Jaguars,7,23,Jaguars
+4,Dolphins,Bills,20,48,Bills
+4,Broncos,Bears,31,28,Broncos
+4,Ravens,Browns,28,3,Ravens
+4,Bengals,Titans,3,27,Titans
+4,Rams,Colts,29,23,Rams
+4,Buccaneers,Saints,26,9,Buccaneers
+4,Commanders,Eagles ,31,34,Eagles
+4,Vikings,Panthers,21,13,Vikings
+4,Steelers,Texans,6,30,Texans
+4,Raiders,Chargers,17,24,Chargers
+4,Patriots,Cowboys,3,38,Cowboys
+4,Cardinals,49ers,16,35,49ers
+4,Chiefs,Jets,23,20,Chiefs
+4,Seahawks,Giants,24,3,Seahawks
+5,Bears,Commanders,40,20,Bears
+5,Jaguars,Bills,25,20,Jaguars
+5,Texans,Falcons,19,21,Falcons
+5,Panthers,Lions,24,42,Lions
+5,Titans,Colts,16,23,Colts
+5,Giants ,Dolphins,16,31,Dolphins
+5,Saints,Patriots,34,0,Saints
+5,Ravens,Steelers,10,17,Steelers
+5,Eagles,Rams,23,14,Eagles
+5,Bengals,Cardinals,34,20,Bengals
+5,Jets,Broncos,31,21,Jets
+5,Chiefs,Vikings ,27,20,Chiefs
+5,Cowboys,49ers,10,42,49ers
+5,Packers,Raiders,13,17,Raiders
+6,Broncos,Chiefs,8,19,Chiefs
+6,Ravens,Titans,24,16,Ravens
+6,Commanders,Falcons,24,16,Commanders
+6,Vikings,Bears,19,13,Vikings
+6,Seahawks,Bengals,13,17,Bengals
+6,49ers,Browns,17,19,Browns
+6,Panthers,Dolphins,21,42,Dolphins
+6,Colts,Jaguars,20,37,Jaguars
+6,Saints,Texans,13,20,Texans
+6,Patriots,Raiders,17,21,Raiders
+6,Cardinals,Rams,9,26,Rams
+6,Eagles,Jets,14,20,Jets
+6,Lions,Buccaneers,20,6,Lions
+6,Giants ,Bills,9,14,Bills
+6,Cowboys,Chargers,20,17,Cowboys
+7,Jaguars,Saints,31,24,Jaguars
+7,Raiders,Bears,12,30,Bears
+7,Browns,Colts,39,38,Browns
+7,Bills ,Patriots,25,29,Patriots
+7,Commanders,Giants,7,14,Giants
+7,Falcons,Buccaneers,16,13,Falcons
+7,Lions,Ravens ,6,38,Ravens
+7,Steelers,Rams,24,17,Steelers
+7,Cardinals,Seahawks,10,20,Seahawks
+7,Packers,Broncos,17,19,Broncos
+7,Chargers,Chiefs,17,31,Chiefs
+7,Dolphins,Eagles ,17,31,Eagles
+7,49ers,Vikings ,17,22,Vikings
+8,Buccaneers,Bills,18,24,Bills
+8,Rams,Cowboys,20,43,Cowboys
+8,Vikings,Packers,24,10,Vikings
+8,Falcons,Titans,23,28,Titans
+8,Saints,Colts,38,27,Saints
+8,Patriots,Dolphins,17,31,Dolphins
+8,Jets,Giants,13,10,Jets
+8,Jaguars,Steelers,20,10,Jaguars
+8,Eagles,Commanders,38,31,Eagles
+8,Texans,Panthers,13,15,Panthers
+8,Browns,Seahawks,20,24,Seahawks
+8,Chiefs,Broncos,9,24,Broncos
+8,Ravens,Cardinals,31,24,Ravens
+8,Bengals,49ers,31,17,Bengals
+8,Bears,Chargers,13,30,Chargers
+8,Raiders,Lions,14,26,Lions
+9,Titans,Steelers,16,20,Steelers
+9,Dolphins,Chiefs,14,21,Chiefs
+9,Vikings,Falcons,31,28,Vikings
+9,Cardinals,Browns,0,27,Browns
+9,Rams,Packers,3,20,Packers
+9,Commanders,Patriots,20,17,Commanders
+9,Bears,Saints,17,24,Saints
+9,Seahawks,Ravens ,3,37,Ravens
+9,Buccaneers,Texans,37,39,Texans
+9,Colts,Panthers,27,13,Colts
+9,Giants ,Raiders,6,30,Raiders
+9,Cowboys,Eagles ,23,28,Eagles
+9,Bills ,Bengals,18,24,Bengals
+9,Chargers,Jets,27,6,Chargers
+10,Panthers,Bears,13,16,Bears
+10,Colts,Patriots,10,6,Colts
+10,Texans,Bengals,30,27,Texans
+10,Saints,Vikings ,19,27,Vikings
+10,Packers,Steelers,19,23,Steelers
+10,Titans,Buccaneers,6,20,Buccaneers
+10,49ers,Jaguars,34,3,49ers
+10,Browns,Ravens ,33,31,Browns
+10,Falcons,Cardinals,23,25,Cardinals
+10,Lions,Chargers,41,38,Lions
+10,Giants ,Cowboys,17,49,Cowboys
+10,Commanders,Seahawks,26,29,Seahawks
+10,Jets,Raiders,12,16,Raiders
+10,Broncos,Bills,24,22,Broncos
+11,Bengals,Ravens ,20,34,Ravens
+11,Steelers,Browns,10,13,Browns
+11,Bears,Lions,31,26,Lions
+11,Chargers,Packers,20,23,Packers
+11,Raiders,Dolphins,13,20,Dolphins
+11,Giants ,Commanders,31,19,Giants
+11,Cowboys,Panthers,33,10,Cowboys
+11,Titans,Jaguars,14,34,Jaguars
+11,Cardinals,Texans,16,21,Texans
+11,Buccaneers,49ers,14,27,49ers
+11,Jets,Bills,6,32,Bills
+11,Seahawks,Rams,16,17,Rams
+11,Vikings,Broncos,20,21,Broncos
+11,Eagles,Chiefs,21,17,Eagles
+12,Packers,Lions,29,22,Packers
+12,Commanders,Cowboys,10,45,Cowboys
+12,49ers,Seahawks,31,13,49ers
+12,Dolphins,Jets,34,13,Dolphins
+12,Saints,Falcons,15,24,Falcons
+12,Steelers,Bengals,16,10,Steelers
+12,Panthers,Titans,10,17,Titans
+12,Buccaneers,Colts,20,27,Colts
+12,Patriots,Giants,7,10,Giants
+12,Jaguars,Texans,24,21,Jaguars
+12,Browns,Broncos,12,29,Broncos
+12,Rams,Cardinals,37,14,Rams
+12,Chiefs,Raiders,37,14,Chiefs
+12,Bills ,Eagles ,34,37,Eagles
+12,Ravens,Chargers,20,10,Ravens
+12,Bears,Vikings ,12,10,Bears
+13,Seahawks,Cowboys,35,41,Cowboys
+13,Colts,Titans,31,28,Colts
+13,Chargers,Patriots,6,0,Chargers
+13,Lions,Saints,33,28,Lions
+13,Falcons,jets,13,8,Falcons
+13,Cardinals,Steelers,24,10,Cardinals
+13,Dolphins,Commanders,45,15,Dolphins
+13,Broncos,Texans,17,22,Texans
+13,Panthers,Buccaneers,18,21,Buccaneers
+13,Browns,Rams,19,36,Rams
+13,49ers,Eagles ,42,19,49ers
+13,Chiefs,Packers,19,27,Packers
+13,Bengals,Jaguars,34,31,Bengals
+14,Patriots,Steelers,21,18,Patriots
+14,Buccaneers,Falcons,29,25,Buccaneers
+14,Lions,Bears,13,28,Bears
+14,Colts,Bengals,14,34,Bengals
+14,Jaguars,Browns,27,31,Browns
+14,Panthers,Saints,6,28,Saints
+14,Texans,Jets,6,30,Jets
+14,Rams,Ravens ,31,37,Ravens
+14,Vikings,Raiders,3,0,Vikings
+14,Seahawks,49ers,16,28,49ers
+14,Bills ,Chiefs,20,17,Bills
+14,Broncos,Chargers,24,7,Broncos
+14,Eagles,Cowboys,13,33,Cowboys
+14,Titans,Dolphins,28,27,Titans
+14,Packers,Giants,22,24,Giants
+15,Chargers,Raiders,21,63,Raiders
+15,Vikings,Bengals,24,27,Bengals
+15,Steelers,Colts,13,30,Colts
+15,Broncos,Lions,17,42,Lions
+15,Bears,Browns,17,20,Browns
+15,Buccaneers,Packers,34,20,Buccaneers
+15,Texans,Titans,19,16,Texans
+15,Jets,Dolphins,0,30,Dolphins
+15,Chiefs,Patriots,27,17,Patriots
+15,Giants ,Saints,6,24,Saints
+15,Falcons,Panthers,7,9,Panthers
+15,Commanders,Rams,20,28,Rams
+15,49ers,Cardinals,45,29,49ers
+15,Cowboys,Bills,10,31,Bills
+15,Ravens,Jaguars,23,7,Ravens
+15,Eagles,Seahawks,17,20,Seahawks
+16,Saints,Rams,22,30,Rams
+16,Bengals,Steelers,11,34,Steelers
+16,Bills ,Chargers,24,22,Bills
+16,Colts,Falcons,10,29,Falcons
+16,Seahawks,Titans,20,17,Seahawks
+16,Lions,Vikings ,30,24,Lions
+16,Commanders,Jets,28,30,Jets
+16,Packers,Panthers,33,30,Packers
+16,Browns,Texans,36,22,Browns
+16,Jaguars,Buccaneers,12,30,Buccaneers
+16,Cardinals,Bears,16,27,Bears
+16,Cowboys,Dolphins,20,22,Dolphins
+16,Patriots,Broncos,26,23,Patriots
+16,Raiders,Chiefs,20,14,Raiders
+16,Giants ,Eagles ,25,33,Eagles
+16,Ravens,49ers,33,19,Ravens
+17,Jets,Browns,20,37,Browns
+17,Lions,Cowboys,19,20,Cowboys
+17,Patriots,Bills,21,27,Bills
+17,Falcons,Bears,17,37,Bears
+17,Raiders,Colts,20,23,Colts
+17,Rams,Giants,26,25,Rams
+17,Cardinals,Eagles ,35,31,Cardinals
+17,Saints,Buccaneers,23,13,Saints
+17,49ers,Commanders,27,10,49ers
+17,Panthers,Jaguars,0,26,Jaguars
+17,Dolphins,Ravens ,19,56,Ravens
+17,Titans,Texans,3,26,Texans
+17,Steelers,Seahawks,30,23,Steelers
+17,Chargers,Broncos,9,16,Broncos
+17,Bengals,Chiefs,17,25,Chiefs
+17,Packers,Vikings ,33,10,Packers
+18,Steelers,Ravens ,17,10,Steelers
+18,Texans,Colts,23,19,Texans
+18,Browns,Bengals,14,31,Bengals
+18,Vikings,Lions,20,30,Lions
+18,Jaguars,Titans,20,28,Titans
+18,Jets,Patriots,17,3,Jets
+18,Falcons,Saints,17,48,Saints
+18,Buccaneers,Panthers,9,0,Buccaneers
+18,Bears,Packers,9,17,Packers
+18,Broncos,Raiders,14,27,Raiders
+18,Eagles,Giants,10,27,Giants
+18,Seahawks,Cardinals,21,20,Seahawks
+18,Chiefs,Chargers,13,12,Chiefs
+18,Rams,49ers,21,20,Rams
+18,Cowboys,Commanders,38,10,Cowboys
+18,Bills ,Dolphins,21,14,Bills
