@@ -62,6 +62,8 @@ All code and results are in my modeling.ipynb file.
 ### Individual File Testing
 I began by testing each individual file using a Random Forest classifier, running the model 40 times and recording the average accuracy and standard deviation for each dataset. Offensive statistics consistently produced the best performance.
 
+<img width="595" alt="Screenshot 2024-12-23 at 12 50 56 PM" src="https://github.com/user-attachments/assets/2aba33ee-9375-4b12-9413-4a5fb79c82ea" />
+
 ### Testing Multiple Models
 Next, I evaluated merged datasets using multiple models: Random Forest, Support Vector Machine (SVM), Logistic Regression, Gradient Boosting, and Neural Network. Random Forest performed best across the merged files, achieving the highest accuracy overall. Surprisingly, the Neural Network model achieved 72% accuracy with the combined data.
 
