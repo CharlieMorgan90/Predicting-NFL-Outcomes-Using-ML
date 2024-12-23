@@ -37,8 +37,7 @@ The significance of a three-point lead extends far beyond the scoreboard—it re
 - While percentages vary based on specific situations (e.g., down-and-distance, team), the **guaranteed points of a field goal often outweigh the risk.**
 
 #### Strategic Implications:
-- Early in the game, risking three points for a potential touchdown might seem worthwhile.
-- However, in the **fourth quarter**, securing those three points often becomes **game-changing**.
+Early in the game, risking three points for a potential touchdown might seem worthwhile. However, the percentages are not in your favor, and in the fourth quarter those three points can be game-changing.
 
 
 ## Dataset
