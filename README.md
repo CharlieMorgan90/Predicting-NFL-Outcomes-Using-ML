@@ -72,16 +72,19 @@ total features.
 
 ### Optimization Techniques
 The highest accuracy achieved using all features was 71% with a Random Forest model. To improve performance, I applied several optimization techniques:
-1. Grid Search for Hyperparameter Tuning
+1. Grid Search for Hyperparameter Tuning:
+   
    Conducted a grid search to optimize the model’s parameters, such as the number of estimators, maximum depth, and minimum samples per split.
 
    Surprisingly, the optimized Random Forest model achieved 69% accuracy—lower than the baseline model. This drop likely occurred because the grid      search hyperparameters overfit the training data, making the model less generalizable to unseen data. Field goal stats remained the top feature,     reinforcing their importance.
 
-2. Feature Selection
+3. Feature Selection:
+   
    Reduced the dataset to the top 190 features based on feature importance, which increased accuracy from 71% to 75%. By focusing on the most 
    relevant features, the model avoided noise and redundant variables. Field goals continued to be the most important feature.
 
-3. Cross-Validation
+4. Cross-Validation:
+   
    Introduced cross-validation to test the model’s performance on outside data. Using the top 100 features, the model achieved an accuracy of 64%       with a standard deviation of 0.06. This drop is expected because cross-validation provides a more realistic measure of performance by testing        the model on unseen folds, revealing its true predictive power. The results highlighted how challenging it is for a machine learning model to        predict NFL outcomes using season-level data alone.
 
 ## Results & Insights
