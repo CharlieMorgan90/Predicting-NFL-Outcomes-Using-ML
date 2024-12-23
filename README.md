@@ -16,12 +16,9 @@ This wasn’t a random result. Watching games closely, I noticed a pattern: fiel
 
 ## Field Goals and Game Strategy
 
-- A three-point lead impacts far more than the scoreboard; it reshapes the entire game:
-  - Alters coaching decisions.
-  - Influences clock management.
-  - Affects defensive aggression.
+The significance of a three-point lead extends far beyond the scoreboard—it reshapes the game. A small lead alters coaching decisions, clock management, and defensive aggression.
 
-### Consider This Scenario:
+#### Consider This Scenario:
 - **Situation:** 7:50 left in the 4th quarter, tied game, 1st down at your 30-yard line:
   - **Win probability if tied:** 58%.
   - **Down by a field goal:** Drops to 33%.
@@ -30,7 +27,7 @@ This wasn’t a random result. Watching games closely, I noticed a pattern: fiel
 
 - These shifts highlight the **psychological and strategic weight** of a three-point difference.
 
-### Decision-Making: Field Goal vs. Going for It
+#### Decision-Making: Field Goal vs. Going for It
 - **Kicking a Field Goal (Within the 30-yard line):**
   - Provides a **99% chance** of scoring three points.
 - **Going for It on 4th Down:**
@@ -39,7 +36,7 @@ This wasn’t a random result. Watching games closely, I noticed a pattern: fiel
 
 - While percentages vary based on specific situations (e.g., down-and-distance, team), the **guaranteed points of a field goal often outweigh the risk.**
 
-### Strategic Implications:
+#### Strategic Implications:
 - Early in the game, risking three points for a potential touchdown might seem worthwhile.
 - However, in the **fourth quarter**, securing those three points often becomes **game-changing**.
 
